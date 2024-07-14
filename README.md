@@ -22,7 +22,7 @@ NUnit API challenge using JSONPlaceholder.
     dotnet test
     ```
 
-1. Generate and view report
+1. Generate and view report:
     ```sh
     allure generate
     allure serve
