@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string",
+            "const": "Vestibulum molestie"
+        },
+        "body": {
+            "type": "string",
+            "const": "Morbi fringilla consequat leo sed ultricies."
+        },
+        "userId": {
+            "type": "integer",
+            "const": 1
+        },
+        "id": {
+            "type": "integer",
+            "const": 1
+        }
+    },
+    "required": ["title", "body", "userId", "id"]
+}

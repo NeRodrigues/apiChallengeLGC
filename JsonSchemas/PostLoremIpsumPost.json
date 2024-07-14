@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string",
+            "const": "Lorem ipsum"
+        },
+        "body": {
+            "type": "string",
+            "const": "Aliquam eu purus eu velit viverra ornare in quis velit."
+        },
+        "userId": {
+            "type": "integer",
+            "const": 1
+        },
+        "id": {
+            "type": "integer"
+        }
+    },
+    "required": ["title", "body", "userId", "id"]
+}
