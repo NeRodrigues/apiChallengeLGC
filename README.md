@@ -1,7 +1,7 @@
 # apiChallengeLGC
 
 ## Overview
-This project is part of the LGC recruitment technical challenge for API testing.
+NUnit API challenge using JSONPlaceholder.
 
 ## Requirements
 - [.NET SDK](https://dotnet.microsoft.com/download)
